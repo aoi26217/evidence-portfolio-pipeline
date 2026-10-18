@@ -31,3 +31,5 @@ Requires Python 3.10+. Includes a zero-network, 18-check unit and end-to-end int
 
 Release Archive SHA-256 (evidence-portfolio-pipeline-v3.zip):
 496f96abd6b526a697c14a77f71411ac0fb3404dbb341861c8d4d91b64ad4505
+
+MIT License
